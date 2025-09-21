@@ -1,0 +1,6 @@
+torch
+fastprogress
+scikit-learn
+numpy
+pandas
+matplotlib
